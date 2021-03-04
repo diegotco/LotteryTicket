@@ -22,7 +22,7 @@ class Main {
     }
     
     public static void printTicket(int ticket[]){
-        for (int i=0; i<LENGTH); i++){
+        for (int i=0; i<LENGTH; i++){
             System.out.print(ticket[i] + " | " );
         }
     }
